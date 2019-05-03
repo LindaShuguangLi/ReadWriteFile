@@ -1,0 +1,9 @@
+C:\Projects\ReadWriteFile\ReadWriteFile\bin\Debug\ReadWriteFile.exe.config
+C:\Projects\ReadWriteFile\ReadWriteFile\obj\Debug\ReadWriteFile.csprojResolveAssemblyReference.cache
+C:\Projects\ReadWriteFile\ReadWriteFile\obj\Debug\ReadWriteFile.ReadWriteForm.resources
+C:\Projects\ReadWriteFile\ReadWriteFile\obj\Debug\ReadWriteFile.Properties.Resources.resources
+C:\Projects\ReadWriteFile\ReadWriteFile\obj\Debug\ReadWriteFile.csproj.GenerateResource.Cache
+C:\Projects\ReadWriteFile\ReadWriteFile\bin\Debug\ReadWriteFile.exe
+C:\Projects\ReadWriteFile\ReadWriteFile\bin\Debug\ReadWriteFile.pdb
+C:\Projects\ReadWriteFile\ReadWriteFile\obj\Debug\ReadWriteFile.exe
+C:\Projects\ReadWriteFile\ReadWriteFile\obj\Debug\ReadWriteFile.pdb
